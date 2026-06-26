@@ -1,6 +1,6 @@
 {
   "name": "assertify.io",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "AI-powered assistant that turns your project context into end-to-end test strategies, detailed scenarios, and ready-to-run boilerplate across popular frameworks.",
   "main": "src/index.ts",
   "scripts": {
